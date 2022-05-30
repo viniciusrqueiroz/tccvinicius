@@ -1,6 +1,6 @@
 -------------- Etapa 01
 
-Por falta de espaço no GITHUB, os arquivos da pasta (.\Planilhas\Combustivel) se encontram no OneDrive no seguinte link e devem ser movidos para esta pasta antes da execução do notebook "01 - Gerar dataset da tabela Combustíveis a partir das planilhas.ipynb"
+Por falta de espaço no GITHUB, os arquivos da pasta (.\Planilhas\Combustivel) se encontram no OneDrive no seguinte link e devem ser movidos para a pasta (.\Planilhas\Combustivel) antes da execução do notebook "01 - Gerar dataset da tabela Combustíveis a partir das planilhas.ipynb"
 
 --------------
 Link OneDrive
@@ -49,7 +49,7 @@ ca-2021-02.csv
 
 -------------- Etapa 02
 
-Por falta de espaço no GITHUB, o arquivo "combustiveis.csv" da pasta (.\Datasets) se encontra no OneDrive no seguinte link e deve ser movido para esta pasta antes da execução do notebook "02 - Efetuar download da planilha Dólar.ipynb"
+Por falta de espaço no GITHUB, o arquivo "combustiveis.csv" da pasta (.\Datasets) se encontra no OneDrive no seguinte link e deve ser movido para a pasta (.\Datasets) antes da execução do notebook "02 - Efetuar download da planilha Dólar.ipynb"
 
 Alternativamente ele pode ser gerado através da execução do notebook "01 - Gerar dataset da tabela Combustíveis a partir das planilhas.ipynb" após a execução da Etapa 01 acima
 
